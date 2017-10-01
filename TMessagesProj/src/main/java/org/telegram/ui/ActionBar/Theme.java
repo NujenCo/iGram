@@ -26,7 +26,7 @@ import org.telegram.messenger.AndroidUtilities;
 import org.telegram.messenger.ApplicationLoader;
 import org.telegram.ui.ImageListActivity;
 
-import org.telegram.igram.R;
+import org.telegram.igram3.R;
 
 public class Theme {
     public static final int JOIN_SHEET_NAME_TEXT_COLOR = 0xff212121;

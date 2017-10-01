@@ -14,7 +14,7 @@ import android.os.IBinder;
 import android.support.v4.app.NotificationCompat;
 import android.support.v4.app.NotificationManagerCompat;
 
-import org.telegram.igram.R;
+import org.telegram.igram3.R;
 
 public class VideoEncodingService extends Service implements NotificationCenter.NotificationCenterDelegate {
 

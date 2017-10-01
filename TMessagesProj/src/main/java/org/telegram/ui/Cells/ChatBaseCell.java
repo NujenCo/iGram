@@ -47,7 +47,7 @@ import org.telegram.ui.ActionBar.Theme;
 import org.telegram.ui.Components.AvatarDrawable;
 import org.telegram.ui.Components.TypefaceSpan;
 
-import org.telegram.igram.R;
+import org.telegram.igram3.R;
 
 public class ChatBaseCell extends BaseCell implements MediaController.FileDownloadProgressListener {
 

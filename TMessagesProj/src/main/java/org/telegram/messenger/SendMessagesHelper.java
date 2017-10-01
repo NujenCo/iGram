@@ -29,7 +29,7 @@ import android.text.TextUtils;
 import android.webkit.MimeTypeMap;
 import android.widget.Toast;
 
-import org.telegram.igram.R;
+import org.telegram.igram3.R;
 import org.telegram.messenger.audioinfo.AudioInfo;
 import org.telegram.messenger.query.DraftQuery;
 import org.telegram.messenger.query.SearchQuery;

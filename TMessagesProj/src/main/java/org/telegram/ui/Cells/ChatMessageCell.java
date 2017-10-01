@@ -32,7 +32,7 @@ import android.view.SoundEffectConstants;
 import android.view.ViewStructure;
 
 import org.telegram.PhoneFormat.PhoneFormat;
-import org.telegram.igram.R;
+import org.telegram.igram3.R;
 import org.telegram.messenger.AndroidUtilities;
 import org.telegram.messenger.ContactsController;
 import org.telegram.messenger.Emoji;

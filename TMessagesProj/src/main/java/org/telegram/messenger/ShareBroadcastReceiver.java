@@ -12,7 +12,7 @@ import android.content.BroadcastReceiver;
 import android.content.Context;
 import android.content.Intent;
 
-import org.telegram.igram.R;
+import org.telegram.igram3.R;
 
 public class ShareBroadcastReceiver extends BroadcastReceiver {
 

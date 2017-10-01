@@ -9,7 +9,7 @@
 package org.telegram.messenger;
 
 import org.telegram.PhoneFormat.PhoneFormat;
-import org.telegram.igram.R;
+import org.telegram.igram3.R;
 import org.telegram.tgnet.TLRPC;
 
 public class UserObject {

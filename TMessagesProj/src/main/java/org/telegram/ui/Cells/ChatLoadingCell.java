@@ -14,7 +14,7 @@ import android.widget.FrameLayout;
 import android.widget.ProgressBar;
 
 import org.telegram.messenger.AndroidUtilities;
-import org.telegram.igram.R;
+import org.telegram.igram3.R;
 import org.telegram.ui.Components.LayoutHelper;
 import org.telegram.ui.ActionBar.Theme;
 

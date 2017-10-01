@@ -45,7 +45,7 @@ import org.telegram.ui.Components.NumberPicker;
 import java.util.ArrayList;
 import java.util.List;
 
-import org.telegram.igram.R;
+import org.telegram.igram3.R;
 
 import static org.telegram.ui.Components.ColorSelectorDialog.OnColorChangedListener;
 

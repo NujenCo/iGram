@@ -35,7 +35,7 @@ import org.telegram.messenger.LocaleController;
 import org.telegram.messenger.NotificationCenter;
 import org.telegram.messenger.ApplicationLoader;
 import org.telegram.messenger.FileLog;
-import org.telegram.igram.R;
+import org.telegram.igram3.R;
 import org.telegram.tgnet.TLRPC;
 
 import java.lang.reflect.Field;

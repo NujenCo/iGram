@@ -46,7 +46,7 @@ import org.telegram.ui.Components.BackupImageView;
 import org.telegram.ui.Components.LayoutHelper;
 import org.telegram.ui.PhotoViewer;
 
-import org.telegram.igram.R;
+import org.telegram.igram3.R;
 
 public class DrawerProfileCell extends FrameLayout implements PhotoViewer.PhotoViewerProvider{
 

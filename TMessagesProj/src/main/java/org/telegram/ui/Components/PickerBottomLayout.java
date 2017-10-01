@@ -18,7 +18,7 @@ import android.widget.TextView;
 
 import org.telegram.messenger.AndroidUtilities;
 import org.telegram.messenger.LocaleController;
-import org.telegram.igram.R;
+import org.telegram.igram3.R;
 import org.telegram.ui.ActionBar.Theme;
 
 public class PickerBottomLayout extends FrameLayout {

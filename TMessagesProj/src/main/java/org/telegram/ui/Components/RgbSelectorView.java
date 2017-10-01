@@ -26,7 +26,7 @@ import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.SeekBar;
 
-import org.telegram.igram.R;
+import org.telegram.igram3.R;
 
 public class RgbSelectorView extends LinearLayout {
 

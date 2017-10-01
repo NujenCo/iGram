@@ -12,7 +12,7 @@ import android.widget.AbsListView;
 import android.widget.EdgeEffect;
 import android.widget.ScrollView;
 
-import org.telegram.igram.BuildConfig;
+import org.telegram.igram3.BuildConfig;
 import org.telegram.messenger.support.widget.RecyclerView;
 
 import java.lang.annotation.Retention;

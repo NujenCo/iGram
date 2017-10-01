@@ -22,7 +22,7 @@ import android.util.Log;
 import android.util.Xml;
 import android.widget.Toast;
 
-import org.telegram.igram.R;
+import org.telegram.igram3.R;
 import org.telegram.ui.LaunchActivity;
 import org.xmlpull.v1.XmlPullParser;
 

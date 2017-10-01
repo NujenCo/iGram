@@ -57,8 +57,8 @@ import android.widget.ListView;
 import android.widget.Scroller;
 import android.widget.TextView;
 
-import org.telegram.igram.BuildConfig;
-import org.telegram.igram.R;
+import org.telegram.igram3.BuildConfig;
+import org.telegram.igram3.R;
 import org.telegram.messenger.AndroidUtilities;
 import org.telegram.messenger.AnimatorListenerAdapterProxy;
 import org.telegram.messenger.ApplicationLoader;

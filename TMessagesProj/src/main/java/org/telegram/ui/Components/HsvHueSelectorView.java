@@ -25,7 +25,7 @@ import android.widget.ImageView;
 import android.widget.ImageView.ScaleType;
 import android.widget.LinearLayout;
 
-import org.telegram.igram.R;
+import org.telegram.igram3.R;
 
 public class HsvHueSelectorView extends LinearLayout {
 

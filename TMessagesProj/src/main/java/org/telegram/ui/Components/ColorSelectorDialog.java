@@ -25,7 +25,7 @@ import android.view.MotionEvent;
 import android.view.View;
 import android.widget.Button;
 
-import org.telegram.igram.R;
+import org.telegram.igram3.R;
 
 public class ColorSelectorDialog extends Dialog implements
 ColorPickerView.OnColorChangedListener,

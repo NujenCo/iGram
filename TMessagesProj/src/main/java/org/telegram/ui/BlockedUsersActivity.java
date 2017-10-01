@@ -41,7 +41,7 @@ import org.telegram.ui.Cells.TextInfoCell;
 import org.telegram.ui.Cells.UserCell;
 import org.telegram.ui.Components.LayoutHelper;
 
-import org.telegram.igram.R;
+import org.telegram.igram3.R;
 
 public class BlockedUsersActivity extends BaseFragment implements NotificationCenter.NotificationCenterDelegate, ContactsActivity.ContactsActivityDelegate {
 

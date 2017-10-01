@@ -32,7 +32,7 @@ import android.view.MotionEvent;
 import android.widget.FrameLayout;
 import android.widget.ImageView;
 
-import org.telegram.igram.R;
+import org.telegram.igram3.R;
 
 public class HsvColorValueView extends FrameLayout {
 	private Paint paint;

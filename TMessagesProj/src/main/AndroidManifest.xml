@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="org.telegram.igram"
+    package="org.telegram.igram3"
     android:installLocation="auto">
 
     <supports-screens
@@ -273,7 +273,7 @@
             android:name="org.telegram.messenger.AppStartReceiver"
             android:enabled="true">
             <intent-filter>
-                <action android:name="org.telegram.igram.start" />
+                <action android:name="org.telegram.igram3.start" />
                 <action android:name="android.intent.action.BOOT_COMPLETED" />
             </intent-filter>
         </receiver>

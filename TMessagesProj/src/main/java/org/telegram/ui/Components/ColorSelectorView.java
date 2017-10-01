@@ -27,7 +27,7 @@ import android.widget.TabHost.TabContentFactory;
 import android.widget.TabHost.TabSpec;
 import android.widget.TextView;
 
-import org.telegram.igram.R;
+import org.telegram.igram3.R;
 
 public class ColorSelectorView extends LinearLayout {
 	private static final String HSV_TAG = "HSV";

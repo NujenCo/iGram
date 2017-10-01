@@ -36,7 +36,7 @@ import org.telegram.ui.Components.LinkPath;
 import org.telegram.ui.Components.TypefaceSpan;
 import org.telegram.ui.Components.URLSpanNoUnderline;
 
-import org.telegram.igram.R;
+import org.telegram.igram3.R;
 
 public class BotHelpCell extends View {
 

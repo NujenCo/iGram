@@ -24,7 +24,7 @@ import android.text.TextUtils;
 import android.view.MotionEvent;
 
 import org.telegram.PhoneFormat.PhoneFormat;
-import org.telegram.igram.R;
+import org.telegram.igram3.R;
 import org.telegram.messenger.AndroidUtilities;
 import org.telegram.messenger.ApplicationLoader;
 import org.telegram.messenger.ChatObject;

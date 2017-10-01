@@ -34,7 +34,7 @@ import org.telegram.messenger.AnimationCompat.AnimatorSetProxy;
 import org.telegram.messenger.AnimationCompat.ObjectAnimatorProxy;
 import org.telegram.messenger.ApplicationLoader;
 import org.telegram.messenger.FileLog;
-import org.telegram.igram.R;
+import org.telegram.igram3.R;
 
 public class DrawerLayoutContainer extends FrameLayout {
 

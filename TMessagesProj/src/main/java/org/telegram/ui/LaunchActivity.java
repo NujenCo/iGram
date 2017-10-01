@@ -47,8 +47,8 @@ import android.widget.Toast;
 import net.hockeyapp.android.LoginManager;
 
 import org.telegram.PhoneFormat.PhoneFormat;
-import org.telegram.igram.BuildConfig;
-import org.telegram.igram.R;
+import org.telegram.igram3.BuildConfig;
+import org.telegram.igram3.R;
 import org.telegram.messenger.AndroidUtilities;
 import org.telegram.messenger.ApplicationLoader;
 import org.telegram.messenger.BuildVars;
@@ -1917,7 +1917,7 @@ public class LaunchActivity extends Activity implements ActionBarLayout.ActionBa
             passcodeView.onResume();
         }
 
-        if (getPackageName().contains("org.telegram.igram.beta")) {
+        if (getPackageName().contains("org.telegram.igram3.beta")) {
             AndroidUtilities.checkForCrashes(this);
             AndroidUtilities.checkForUpdates(this);
         }

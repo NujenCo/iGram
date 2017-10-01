@@ -59,7 +59,7 @@ import org.telegram.messenger.NotificationCenter;
 import org.telegram.messenger.camera.*;
 import org.telegram.messenger.query.SearchQuery;
 import org.telegram.messenger.support.widget.LinearLayoutManager;
-import org.telegram.igram.R;
+import org.telegram.igram3.R;
 import org.telegram.messenger.support.widget.RecyclerView;
 import org.telegram.tgnet.TLRPC;
 import org.telegram.ui.ActionBar.BottomSheet;

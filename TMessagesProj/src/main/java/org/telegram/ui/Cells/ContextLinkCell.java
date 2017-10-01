@@ -23,7 +23,7 @@ import android.view.SoundEffectConstants;
 import android.view.View;
 import android.view.animation.AccelerateInterpolator;
 
-import org.telegram.igram.R;
+import org.telegram.igram3.R;
 import org.telegram.messenger.AndroidUtilities;
 import org.telegram.messenger.Emoji;
 import org.telegram.messenger.FileLoader;

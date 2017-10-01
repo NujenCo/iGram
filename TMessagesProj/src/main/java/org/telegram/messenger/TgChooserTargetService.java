@@ -29,7 +29,7 @@ import android.service.chooser.ChooserTargetService;
 import android.text.TextUtils;
 
 import org.telegram.SQLite.SQLiteCursor;
-import org.telegram.igram.R;
+import org.telegram.igram3.R;
 import org.telegram.tgnet.TLRPC;
 import org.telegram.ui.LaunchActivity;
 

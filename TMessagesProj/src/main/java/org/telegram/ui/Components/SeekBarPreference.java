@@ -16,7 +16,7 @@ import android.widget.SeekBar.OnSeekBarChangeListener;
 import android.widget.TextView;
 
 import org.telegram.messenger.AndroidUtilities;
-import org.telegram.igram.R;
+import org.telegram.igram3.R;
 
 public class SeekBarPreference extends Preference implements OnSeekBarChangeListener {
 

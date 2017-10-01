@@ -46,7 +46,7 @@ android {
     buildToolsVersion '24.0.2'
 
     useLibrary 'org.apache.http.legacy'
-    defaultConfig.applicationId = "org.telegram.igram"
+    defaultConfig.applicationId = "org.telegram.igram3"
 
     sourceSets.main.jniLibs.srcDirs = ['./jni/']
 

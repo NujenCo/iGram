@@ -67,8 +67,8 @@ import net.hockeyapp.android.CrashManager;
 import net.hockeyapp.android.CrashManagerListener;
 import net.hockeyapp.android.UpdateManager;
 
-import org.telegram.igram.BuildConfig;
-import org.telegram.igram.R;
+import org.telegram.igram3.BuildConfig;
+import org.telegram.igram3.R;
 import org.telegram.tgnet.ConnectionsManager;
 import org.telegram.tgnet.TLRPC;
 import org.telegram.ui.ActionBar.BaseFragment;

@@ -15,7 +15,7 @@ import android.content.Context;
 import android.content.DialogInterface;
 
 import org.telegram.SQLite.SQLiteCursor;
-import org.telegram.igram.R;
+import org.telegram.igram3.R;
 import org.telegram.tgnet.AbstractSerializedData;
 import org.telegram.tgnet.ConnectionsManager;
 import org.telegram.tgnet.NativeByteBuffer;

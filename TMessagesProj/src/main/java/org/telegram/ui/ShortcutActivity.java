@@ -14,7 +14,7 @@ import android.os.Bundle;
 import android.view.Window;
 
 import org.telegram.messenger.ApplicationLoader;
-import org.telegram.igram.R;
+import org.telegram.igram3.R;
 
 public class ShortcutActivity extends Activity {
 

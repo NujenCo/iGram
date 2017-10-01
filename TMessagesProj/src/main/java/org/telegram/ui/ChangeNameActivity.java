@@ -41,7 +41,7 @@ import org.telegram.ui.ActionBar.ActionBarMenu;
 import org.telegram.ui.ActionBar.BaseFragment;
 import org.telegram.ui.Components.LayoutHelper;
 
-import org.telegram.igram.R;
+import org.telegram.igram3.R;
 
 public class ChangeNameActivity extends BaseFragment {
 

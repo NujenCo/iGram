@@ -9,7 +9,7 @@ import android.net.Uri;
 import android.os.Environment;
 import android.util.Log;
 
-import org.telegram.igram.BuildConfig;
+import org.telegram.igram3.BuildConfig;
 
 import java.io.File;
 
